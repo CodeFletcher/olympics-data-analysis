@@ -68,5 +68,5 @@ _(Click to watch a short demo of the app in action!)_
 
 ```bash
 git clone https://github.com/CodeFletcher/olympics-data-analysis.git
-cd <repo-name>
+cd olympics-data-analysis
 ```
