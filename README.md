@@ -8,7 +8,9 @@ An interactive **Streamlit web app** to explore **120+ years of Olympic Games da
 
 ## 🎥 Demo Video
 
-[![Watch the demo](images/thumbnail.png)](video/demo.webm)
+## 🎥 Demo Video
+
+[![Watch the Demo on YouTube](images/thumbnail.png)](https://youtu.be/vl14ZwtvFCo)
 
 _(Click to watch a short demo of the app in action!)_
 
