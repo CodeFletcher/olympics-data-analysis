@@ -51,12 +51,12 @@ _(Click to watch a short demo of the app in action!)_
 
 | Type                                     | Preview                                                        |
 | ---------------------------------------- | -------------------------------------------------------------- |
-| **Participating Countries Over Time**    | ![countries_over_time](assets/countries_over_time.png)         |
-| **Events Over Time**                     | ![events_over_time](assets/events_over_time.png)               |
-| **Athletes Over Time**                   | ![athletes_over_time](assets/athletes_over_time.png)           |
-| **Country Medal Trend (India)**          | ![country_medals_line_IND](assets/country_medals_line_IND.png) |
-| **Gender Distribution Over Time**        | ![top_athletes](assets/gender_over_time.png)                   |
-| **Height vs Weight (by Medal & Gender)** | ![height_weight_scatter](assets/height_weight_scatter.png)     |
+| **Participating Countries Over Time**    | ![countries_over_time](images/countries_over_time.png)         |
+| **Events Over Time**                     | ![events_over_time](images/events_over_time.png)               |
+| **Athletes Over Time**                   | ![athletes_over_time](images/athletes_over_time.png)           |
+| **Country Medal Trend (India)**          | ![country_medals_line_IND](images/country_medals_line_IND.png) |
+| **Gender Distribution Over Time**        | ![top_athletes](images/gender_over_time.png)                   |
+| **Height vs Weight (by Medal & Gender)** | ![height_weight_scatter](images/height_weight_scatter.png)     |
 
 > All screenshots generated directly from the Streamlit dashboard.
 
